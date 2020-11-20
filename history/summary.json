@@ -1,18 +1,18 @@
 [
   {
     "name": "Production",
-    "url": "https://stickybomb.kr",
+    "url": "https://www.stickybomb.kr",
     "slug": "production",
-    "status": "down",
-    "uptime": "71.64",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00",
+    "time": 657
   },
   {
     "name": "Stagning",
     "url": "$STICKYBOMB_STAGE_URL",
     "slug": "stagning",
     "status": "down",
-    "uptime": "2.29",
+    "uptime": "0.01",
     "time": 0
   }
 ]
