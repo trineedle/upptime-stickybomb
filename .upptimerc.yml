@@ -7,7 +7,7 @@ sites:
   - name: Production
     url: https://www.stickybomb.kr
   - name: Stagning
-    url: $STICKYBOMB_STAGE_URL
+    url: ${{ secrets.STICKYBOMB_STAGE_URL }}
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
