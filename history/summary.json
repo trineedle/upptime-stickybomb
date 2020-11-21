@@ -3,9 +3,9 @@
     "name": "Production",
     "url": "https://www.stickybomb.kr",
     "slug": "production",
-    "status": "down",
-    "uptime": "19.79",
-    "time": 480
+    "status": "up",
+    "uptime": "100.00",
+    "time": 588
   },
   {
     "name": "Stagning",
