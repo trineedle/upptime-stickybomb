@@ -12,7 +12,7 @@
     "url": "${{ secrets.STICKYBOMB_STAGE_URL }}",
     "slug": "staging",
     "status": "down",
-    "uptime": "9.94",
+    "uptime": "3.79",
     "time": 0
   }
 ]
