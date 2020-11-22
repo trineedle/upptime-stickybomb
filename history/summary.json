@@ -5,11 +5,11 @@
     "slug": "production",
     "status": "up",
     "uptime": "100.00",
-    "time": 566
+    "time": 529
   },
   {
     "name": "Stagning",
-    "url": "${{ secrets.STICKYBOMB_STAGE_URL }}",
+    "url": "$STICKYBOMB_STAGE_URL",
     "slug": "stagning",
     "status": "down",
     "uptime": "0.00",
