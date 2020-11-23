@@ -4,15 +4,15 @@
     "url": "https://www.stickybomb.kr",
     "slug": "production",
     "status": "up",
-    "uptime": "100.00",
-    "time": 482
+    "uptime": "2.10%",
+    "time": 474
   },
   {
     "name": "Staging",
     "url": "https://www.stickybomb-dev.kr",
     "slug": "staging",
     "status": "up",
-    "uptime": "100.00",
-    "time": 390
+    "uptime": "100.00%",
+    "time": 378
   }
 ]
