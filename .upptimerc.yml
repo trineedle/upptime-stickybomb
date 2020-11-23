@@ -20,9 +20,11 @@ status-website:
   introMessage: 현재 서버의 상태입니다.
   navbar:
     - title: Status
-      href: /
+      href: /upptime-stickybomb
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: repository
+      href: https://bitbucket.org/trineedle/workspace/projects/BLAC
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
