@@ -4,16 +4,16 @@
     "url": "https://www.stickybomb.kr",
     "slug": "production",
     "status": "up",
-    "uptime": "93.01%",
+    "uptime": "93.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.01%",
-    "uptimeYear": "93.01%",
-    "time": 755,
-    "timeDay": 549,
-    "timeWeek": 733,
-    "timeMonth": 755,
-    "timeYear": 755
+    "uptimeMonth": "93.60%",
+    "uptimeYear": "93.60%",
+    "time": 747,
+    "timeDay": 591,
+    "timeWeek": 710,
+    "timeMonth": 747,
+    "timeYear": 747
   },
   {
     "name": "Staging",
@@ -25,10 +25,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
+    "time": 554,
     "timeDay": 274,
-    "timeWeek": 320,
-    "timeMonth": 576,
-    "timeYear": 576
+    "timeWeek": 302,
+    "timeMonth": 554,
+    "timeYear": 554
   }
 ]
