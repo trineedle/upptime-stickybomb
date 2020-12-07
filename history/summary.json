@@ -2,22 +2,28 @@
   {
     "name": "Production",
     "url": "https://www.stickybomb.kr",
+    "icon": "https://favicons.githubusercontent.com/www.stickybomb.kr",
     "slug": "production",
     "status": "up",
-    "uptime": "94.10%",
+    "uptime": "94.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "94.10%",
-    "time": 745,
-    "timeDay": 713,
-    "timeWeek": 601,
-    "timeMonth": 745,
-    "timeYear": 745
+    "uptimeMonth": "94.52%",
+    "uptimeYear": "94.52%",
+    "time": 737,
+    "timeDay": 554,
+    "timeWeek": 605,
+    "timeMonth": 737,
+    "timeYear": 737,
+    "dailyMinutesDown": {
+      "2020-11-21": 157,
+      "2020-11-20": 936
+    }
   },
   {
     "name": "Staging",
     "url": "https://www.stickybomb-dev.kr",
+    "icon": "https://favicons.githubusercontent.com/www.stickybomb-dev.kr",
     "slug": "staging",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 389,
-    "timeWeek": 315,
-    "timeMonth": 543,
-    "timeYear": 543
+    "time": 533,
+    "timeDay": 376,
+    "timeWeek": 324,
+    "timeMonth": 533,
+    "timeYear": 533,
+    "dailyMinutesDown": {}
   }
 ]
